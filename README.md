@@ -1,6 +1,4 @@
-# ⚡ Sink
-
-**A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.**
+# This is a fork of Sink, a Cloudflare-based serverless shortlink service.
 
 <a href="https://trendshift.io/repositories/10421" target="_blank">
   <img
