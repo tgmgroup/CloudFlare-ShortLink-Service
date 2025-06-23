@@ -6,10 +6,10 @@ const { twitter } = useAppConfig()
 </script>
 
 <template>
-  <a
-    :href="twitter"
+  <!--<a
+    :href="bluesky"
     target="_blank"
-    title="X(Twitter)"
+    title="Bluesky"
     class="inline-flex items-center px-3 py-1 mx-auto my-4 space-x-1 text-sm font-medium rounded-lg bg-muted"
   >
     <XIcon class="w-4 h-4" />
@@ -17,7 +17,11 @@ const { twitter } = useAppConfig()
       orientation="vertical"
       class="h-4"
     />
+<<<<<<< Updated upstream
     <span>{{ $t('home.twitter.follow') }}</span>
+=======
+    <span>Follow me on Bluesky</span>
+>>>>>>> Stashed changes
     <ArrowRight class="w-4 h-4" />
-  </a>
+  </a>-->
 </template>
