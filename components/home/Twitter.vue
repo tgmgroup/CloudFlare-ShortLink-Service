@@ -18,7 +18,11 @@ const { twitter } = useAppConfig()
       class="h-4"
     />
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <span>{{ $t('home.twitter.follow') }}</span>
+=======
+    <span>Follow me on Bluesky</span>
+>>>>>>> Stashed changes
 =======
     <span>Follow me on Bluesky</span>
 >>>>>>> Stashed changes
